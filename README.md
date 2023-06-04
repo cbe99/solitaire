@@ -37,11 +37,10 @@ There are four different types of piles in Solitaire:
    -> 24 cards on the stock
 3. the end goal is to let the user arrange the cards from King (bottom) >> ace (on top) with alternating colour
 4. once done, or maybe directly add the cards of same suit in ace >> King(top) manner in the foundation.
-5.
 
 # to run the application
 
--> python -m venv venv
--> venv/Scripts/activate
--> pip -r requirements.txt
--> python game.py
+- python -m venv venv
+- venv/Scripts/activate
+- pip -r requirements.txt
+- python game.py
